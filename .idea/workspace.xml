@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment="">
+    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - refactor : 신규 아이디 추천">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/신규_아이디_추천.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/신규_아이디_추천.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +47,7 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/ljw/Documents/kotlin-algorithm/src/main/kotlin/com/example/kotlinalgorithm/level1",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "spring.configuration.checksum": "ba1880bc80050f1bfa4e8d89cd592b84"
   }
 }]]></component>
@@ -75,7 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1659609055711</updated>
       <workItem from="1659609056975" duration="6960000" />
-      <workItem from="1659692970493" duration="5016000" />
+      <workItem from="1659692970493" duration="5352000" />
+      <workItem from="1659698425326" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary=" - feat : 알고리즘 프로젝트 기본 세팅">
       <created>1659609304845</created>
@@ -112,11 +115,29 @@
       <option name="project" value="LOCAL" />
       <updated>1659697669412</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" - refactor : 신규 아이디 추천">
+      <created>1659698043705</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659698043705</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" - feat : 알고리즘 프로젝트 기본 세팅" />
@@ -124,7 +145,8 @@
     <MESSAGE value=" - feat : 로또의 최고 순위와 최저 순위" />
     <MESSAGE value=" - refactor : 로또의 최고 순위와 최저 순위 (다른 소스 참조)" />
     <MESSAGE value=" - feat : 신규 아이디 추천" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 신규 아이디 추천" />
+    <MESSAGE value=" - refactor : 신규 아이디 추천" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - refactor : 신규 아이디 추천" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
