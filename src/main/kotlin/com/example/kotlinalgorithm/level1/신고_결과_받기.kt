@@ -3,7 +3,7 @@ package com.example.kotlinalgorithm.level1
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/92334?language=kotlin
  */
-class Solution {
+class 신고_결과_받기 {
 
     fun solution(id_list: Array<String>, report: Array<String>, k: Int): IntArray =
             report.asSequence()
