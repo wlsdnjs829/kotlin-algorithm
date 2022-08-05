@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/신규_아이디_추천.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/로또의_최고_순위와_최저_순위.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/로또의_최고_순위와_최저_순위.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ljw\Documents\kotlin-algorithm\src\main\kotlin\com\example\kotlinalgorithm\level1" />
     </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.kotlinalgorithm.level1" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="KotlinAlgorithmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -73,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659609055711</updated>
       <workItem from="1659609056975" duration="6960000" />
-      <workItem from="1659692970493" duration="1854000" />
+      <workItem from="1659692970493" duration="4641000" />
     </task>
     <task id="LOCAL-00001" summary=" - feat : 알고리즘 프로젝트 기본 세팅">
       <created>1659609304845</created>
@@ -96,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659694081604</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" - refactor : 로또의 최고 순위와 최저 순위 (다른 소스 참조)">
+      <created>1659694882114</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659694882114</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +117,8 @@
     <MESSAGE value=" - feat : 알고리즘 프로젝트 기본 세팅" />
     <MESSAGE value=" - feat : 신고 결과 받기 코테 1단계 해결" />
     <MESSAGE value=" - feat : 로또의 최고 순위와 최저 순위" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 로또의 최고 순위와 최저 순위" />
+    <MESSAGE value=" - refactor : 로또의 최고 순위와 최저 순위 (다른 소스 참조)" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - refactor : 로또의 최고 순위와 최저 순위 (다른 소스 참조)" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
