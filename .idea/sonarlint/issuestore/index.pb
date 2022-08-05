@@ -11,3 +11,9 @@ C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+7
+HELP.md,1\a\1a273f73b7a477b0745593641bd708a6182c7ad5
+z
+Jsrc/main/kotlin/com/example/kotlinalgorithm/level1/신고_결과_받기.kt,4\4\442a50d11437d64d6a22160b1948f6a93ce26c33
+�
+^src/main/kotlin/com/example/kotlinalgorithm/level1/로또의_최고_순위와_최저_순위.kt,2\6\26b836e4cb45cced6d413e6039e5aa1dda5a2f09
