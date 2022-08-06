@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 숫자_문자열과_영단어">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/키패드_누르기.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 키패드_누르기">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/크레인_인형뽑기_게임.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/숫자_문자열과_영단어.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/숫자_문자열과_영단어.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +96,7 @@
       <workItem from="1659609056975" duration="6960000" />
       <workItem from="1659692970493" duration="5352000" />
       <workItem from="1659698425326" duration="300000" />
-      <workItem from="1659790828701" duration="5990000" />
+      <workItem from="1659790828701" duration="9739000" />
     </task>
     <task id="LOCAL-00001" summary=" - feat : 알고리즘 프로젝트 기본 세팅">
       <created>1659609304845</created>
@@ -149,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659792712489</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" - feat : 키패드_누르기">
+      <created>1659797068859</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659797068860</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +180,8 @@
     <MESSAGE value=" - feat : 신규 아이디 추천" />
     <MESSAGE value=" - refactor : 신규 아이디 추천" />
     <MESSAGE value=" - feat : 숫자_문자열과_영단어" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 숫자_문자열과_영단어" />
+    <MESSAGE value=" - feat : 키패드_누르기" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 키패드_누르기" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
