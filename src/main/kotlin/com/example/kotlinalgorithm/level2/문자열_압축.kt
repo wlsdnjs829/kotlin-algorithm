@@ -1,7 +1,9 @@
 package com.example.kotlinalgorithm.level2
 
+import java.lang.Integer.min
+
 fun main() {
-    println(문자열_압축().solution("a"))
+    println(Solution().solution("a"))
 }
 
 /**
@@ -76,6 +78,36 @@ class 문자열_압축 {
         }
 
         return current
+    }
+
+    fun anotherSolution(s: String): Int {
+        var answer = s.length
+        val len = s.length / 2
+
+        for (i in 1..len) {
+            val t = s.substring(0 until i)
+            answer = min(answer, count(t, s, 0, 0))
+        }
+
+        return answer
+    }
+
+    private fun count(t: String, s: String, cur: Int, sum: Int): Int {
+        var len = cur.toString().length + t.length
+
+        if (cur == 1) {
+            --len
+        }
+
+        if (s.length < t.length) {
+            return sum + len + s.length
+        }
+
+        if (s.startsWith(t)) {
+            return count(t, s.substring(t.length), cur + 1, sum)
+        }
+
+        return count(s.substring(0, t.length), s, 0, sum + len)
     }
 
 }
