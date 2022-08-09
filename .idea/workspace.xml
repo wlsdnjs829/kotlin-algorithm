@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 키패드_누르기">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/크레인_인형뽑기_게임.kt" afterDir="false" />
+    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 크레인 인형뽑기 게임">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/스킬_테스트_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level1/스킬_테스트_2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,17 +55,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Kotlin.숫자_문자열과_영단어Kt">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="숫자_문자열과_영단어Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level1.숫자_문자열과_영단어Kt" />
       <module name="kotlin-algorithm.main" />
@@ -96,7 +86,8 @@
       <workItem from="1659609056975" duration="6960000" />
       <workItem from="1659692970493" duration="5352000" />
       <workItem from="1659698425326" duration="300000" />
-      <workItem from="1659790828701" duration="9739000" />
+      <workItem from="1659790828701" duration="10205000" />
+      <workItem from="1660046813177" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary=" - feat : 알고리즘 프로젝트 기본 세팅">
       <created>1659609304845</created>
@@ -154,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659797068860</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" - feat : 크레인 인형뽑기 게임">
+      <created>1659800722667</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1659800722668</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +179,8 @@
     <MESSAGE value=" - refactor : 신규 아이디 추천" />
     <MESSAGE value=" - feat : 숫자_문자열과_영단어" />
     <MESSAGE value=" - feat : 키패드_누르기" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 키패드_누르기" />
+    <MESSAGE value=" - feat : 크레인 인형뽑기 게임" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 크레인 인형뽑기 게임" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
