@@ -2,10 +2,6 @@ package com.example.kotlinalgorithm.level2
 
 import java.lang.Integer.min
 
-fun main() {
-    println(Solution().solution("a"))
-}
-
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/67256
  */
