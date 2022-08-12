@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 문자열 압축">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/문자열_압축.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/문자열_압축.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/K진수에서_소수_개수_구하기.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,7 @@
       <recent name="com.example.kotlinalgorithm.level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.문자열_압축Kt">
+  <component name="RunManager" selected="Kotlin.K진수에서_소수_개수_구하기Kt">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -63,6 +67,13 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="K진수에서_소수_개수_구하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level2.K진수에서_소수_개수_구하기Kt" />
+      <module name="kotlin-algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.K진수에서_소수_개수_구하기Kt" />
         <item itemvalue="Kotlin.문자열_압축Kt" />
         <item itemvalue="Kotlin.숫자_문자열과_영단어Kt" />
       </list>
@@ -202,7 +214,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" - feat : 알고리즘 프로젝트 기본 세팅" />
