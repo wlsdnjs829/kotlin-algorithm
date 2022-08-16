@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 문자열 압축">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/K진수에서_소수_개수_구하기.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/양궁_대회.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/K진수에서_소수_개수_구하기" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,13 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;ba1880bc80050f1bfa4e8d89cd592b84&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ljw\Documents\kotlin-algorithm\src\main\kotlin\com\example\kotlinalgorithm\level1" />
@@ -57,7 +60,7 @@
       <recent name="com.example.kotlinalgorithm.level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.K진수에서_소수_개수_구하기Kt">
+  <component name="RunManager" selected="Kotlin.양궁_대회Kt">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -85,6 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="양궁_대회Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level2.양궁_대회Kt" />
+      <module name="kotlin-algorithm.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="양궁_대회Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level2.양궁_대회Kt" />
+      <module name="kotlin-algorithm.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="숫자_문자열과_영단어Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level1.숫자_문자열과_영단어Kt" />
       <module name="kotlin-algorithm.main" />
@@ -101,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.양궁_대회Kt" />
         <item itemvalue="Kotlin.K진수에서_소수_개수_구하기Kt" />
         <item itemvalue="Kotlin.문자열_압축Kt" />
         <item itemvalue="Kotlin.숫자_문자열과_영단어Kt" />
@@ -120,6 +138,10 @@
       <workItem from="1659698425326" duration="300000" />
       <workItem from="1659790828701" duration="10205000" />
       <workItem from="1660046813177" duration="6107000" />
+      <workItem from="1660309872748" duration="1228000" />
+      <workItem from="1660612156559" duration="153000" />
+      <workItem from="1660612319978" duration="1897000" />
+      <workItem from="1660625720819" duration="6972000" />
     </task>
     <task id="LOCAL-00001" summary=" - feat : 알고리즘 프로젝트 기본 세팅">
       <created>1659609304845</created>
@@ -198,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660052692690</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary=" - feat : K진수에서 소수 개수 구하기">
+      <created>1660305748147</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660305748147</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,7 +256,8 @@
     <MESSAGE value=" - feat : 크레인 인형뽑기 게임" />
     <MESSAGE value=" - feat : Level 1 스킬 테스트" />
     <MESSAGE value=" - feat : 문자열 압축" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 문자열 압축" />
+    <MESSAGE value=" - feat : K진수에서 소수 개수 구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - feat : K진수에서 소수 개수 구하기" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
