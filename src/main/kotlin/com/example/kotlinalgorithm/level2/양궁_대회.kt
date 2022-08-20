@@ -1,9 +1,5 @@
 package com.example.kotlinalgorithm.level2
 
-fun main() {
-    println(양궁_대회().solution(10, intArrayOf(0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 3)))
-}
-
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/92342
  */
