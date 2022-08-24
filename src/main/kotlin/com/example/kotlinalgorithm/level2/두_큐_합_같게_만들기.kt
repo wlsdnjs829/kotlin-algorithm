@@ -1,9 +1,5 @@
 package com.example.kotlinalgorithm.level2
 
-fun main() {
-    println(두_큐_합_같게_만들기().solution(intArrayOf(3, 2, 7, 2), intArrayOf(4, 6, 5, 1)))
-}
-
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/118667?language=kotlin
  */
