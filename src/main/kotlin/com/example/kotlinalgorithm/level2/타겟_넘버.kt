@@ -21,4 +21,16 @@ class 타겟_넘버 {
             else -> 0
         }
 
+    class Solution {
+
+        fun solution(numbers: IntArray, target: Int): Int {
+            return numbers.fold(listOf(0)) { list, i ->
+                list.run {
+                    map { it + i } + map { it - i }
+                }
+            }.count { it == target }
+        }
+
+    }
+
 }
