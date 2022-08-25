@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/method/비트_연산자.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/타겟_넘버.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -44,39 +45,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;ba1880bc80050f1bfa4e8d89cd592b84&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ljw\Documents\kotlin-algorithm\src\main\kotlin\com\example\kotlinalgorithm\level1" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
-      <recent name="com.example.kotlinalgorithm.method" />
       <recent name="com.example.kotlinalgorithm.level2" />
+      <recent name="com.example.kotlinalgorithm.method" />
       <recent name="com.example.kotlinalgorithm.level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.비트_연산자Kt">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.타겟_넘버Kt">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="K진수에서_소수_개수_구하기Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level2.K진수에서_소수_개수_구하기Kt" />
-      <module name="kotlin-algorithm.main" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -90,6 +84,13 @@
     </configuration>
     <configuration name="비트_연산자Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.method.비트_연산자Kt" />
+      <module name="kotlin-algorithm.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="타겟_넘버Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level2.타겟_넘버Kt" />
       <module name="kotlin-algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.타겟_넘버Kt" />
         <item itemvalue="Kotlin.비트_연산자Kt" />
         <item itemvalue="Kotlin.스킬_테스트_1Kt" />
         <item itemvalue="Kotlin.기능개발Kt" />
         <item itemvalue="Kotlin.두_큐_합_같게_만들기Kt" />
-        <item itemvalue="Kotlin.K진수에서_소수_개수_구하기Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -295,6 +296,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" - feat : 알고리즘 프로젝트 기본 세팅" />
