@@ -1,6 +1,4 @@
 
-�
-Ssrc/main/kotlin/com/example/kotlinalgorithm/level1/크레인_인형뽑기_게임.kt,7\3\734d28a86954038e7b4bea27d32a455dd830fd31
 y
 Isrc/main/kotlin/com/example/kotlinalgorithm/level1/키패드_누르기.kt,0\2\02026932f501dfadb4285c1de1c9c17432444755
 z
