@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/기능개발.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/후보키.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/오픈채팅방" />
+        <entry key="$PROJECT_DIR$" value="feature/기능개발" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,13 +44,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "ba1880bc80050f1bfa4e8d89cd592b84"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;ba1880bc80050f1bfa4e8d89cd592b84&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ljw\Documents\kotlin-algorithm\src\main\kotlin\com\example\kotlinalgorithm\level1" />
@@ -59,7 +61,7 @@
       <recent name="com.example.kotlinalgorithm.level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.기능개발Kt">
+  <component name="RunManager" selected="Kotlin.스킬_테스트_1Kt">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -113,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="숫자_문자열과_영단어Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level1.숫자_문자열과_영단어Kt" />
+    <configuration name="스킬_테스트_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level2.스킬_테스트_1Kt" />
       <module name="kotlin-algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.스킬_테스트_1Kt" />
         <item itemvalue="Kotlin.기능개발Kt" />
         <item itemvalue="Kotlin.두_큐_합_같게_만들기Kt" />
         <item itemvalue="Kotlin.K진수에서_소수_개수_구하기Kt" />
         <item itemvalue="Kotlin.문자열_압축Kt" />
-        <item itemvalue="Kotlin.숫자_문자열과_영단어Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +163,8 @@
       <workItem from="1660612156559" duration="153000" />
       <workItem from="1660612319978" duration="1897000" />
       <workItem from="1660625720819" duration="6972000" />
+      <workItem from="1661388534471" duration="129000" />
+      <workItem from="1661421849030" duration="5112000" />
     </task>
     <task id="LOCAL-00001" summary=" - feat : 알고리즘 프로젝트 기본 세팅">
       <created>1659609304845</created>
@@ -260,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661339853438</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=" - feat : 기능개발">
+      <created>1661341408343</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661341408343</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +303,8 @@
     <MESSAGE value=" - feat : K진수에서 소수 개수 구하기" />
     <MESSAGE value=" - feat : 멀쩡한 사각형" />
     <MESSAGE value=" - feat : 오픈채팅방" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 오픈채팅방" />
+    <MESSAGE value=" - feat : 기능개발" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 기능개발" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
