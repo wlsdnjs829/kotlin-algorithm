@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 코딩 테스트 공부">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/메뉴_리뉴얼.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/method/조합.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 메뉴 리뉴얼">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/method/조합.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/method/조합_순열.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
       <recent name="com.example.kotlinalgorithm.level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.메뉴_리뉴얼Kt">
+  <component name="RunManager" selected="Kotlin.조합_순열Kt">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -77,13 +74,6 @@
     </configuration>
     <configuration name="기능개발Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level2.기능개발Kt" />
-      <module name="kotlin-algorithm.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="조합Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.method.조합Kt" />
       <module name="kotlin-algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,6 +95,13 @@
     </configuration>
     <configuration name="메뉴_리뉴얼Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level2.메뉴_리뉴얼Kt" />
+      <module name="kotlin-algorithm.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="조합_순열Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.method.조합_순열Kt" />
       <module name="kotlin-algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -154,8 +151,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.조합_순열Kt" />
         <item itemvalue="Kotlin.메뉴_리뉴얼Kt" />
-        <item itemvalue="Kotlin.조합Kt" />
         <item itemvalue="Kotlin.비트_연산자Kt" />
         <item itemvalue="Kotlin.스킬_테스트_1Kt" />
         <item itemvalue="Kotlin.기능개발Kt" />
@@ -181,7 +178,7 @@
       <workItem from="1660625720819" duration="6972000" />
       <workItem from="1661388534471" duration="129000" />
       <workItem from="1661421849030" duration="5112000" />
-      <workItem from="1661518048105" duration="7255000" />
+      <workItem from="1661518048105" duration="8017000" />
     </task>
     <task id="LOCAL-00001" summary=" - feat : 알고리즘 프로젝트 기본 세팅">
       <created>1659609304845</created>
@@ -330,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661518590066</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary=" - feat : 메뉴 리뉴얼">
+      <created>1661525495562</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1661525495562</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +374,8 @@
     <MESSAGE value=" - feat : 카펫" />
     <MESSAGE value=" - feat : 피로도" />
     <MESSAGE value=" - feat : 코딩 테스트 공부" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 코딩 테스트 공부" />
+    <MESSAGE value=" - feat : 메뉴 리뉴얼" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 메뉴 리뉴얼" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">

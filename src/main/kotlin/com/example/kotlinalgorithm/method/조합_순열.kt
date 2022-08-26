@@ -9,9 +9,12 @@ fun main() {
     println(answer)
 
     val answerToString = mutableListOf<String>()
-    val targetToString = listOf("A", "B", "C", "D")
-    조합().combinationToString(answerToString, targetToString, Array(targetToString.size) { false }, 0, 3)
+    조합().combinationToString(answerToString, listOf("A", "B", "C", "D"), Array(4) { false }, 0, 3)
     println(answerToString)
+
+    val combineString = mutableListOf<String>()
+    조합().combine(combineString, listOf("ABC", "BDF", "CSA", "ERS"), Array(3) { false }, 0, 3)
+    println(combineString)
 }
 
 class 조합 {
@@ -49,8 +52,8 @@ class 조합 {
     }
 
     /* "AB", "ABC" 와 같은 요소로 되어 있을 때 */
-    private fun combine(
-        answer: MutableList<String>, target: Array<String>, visited: Array<Boolean>, start: Int, count: Int
+    fun combine(
+        answer: MutableList<String>, target: List<String>, visited: Array<Boolean>, start: Int, count: Int
     ) {
         if (count == 0) {
             answer.addAll(
@@ -60,7 +63,7 @@ class 조합 {
             return
         }
 
-        for (index in start until target.size) {
+        for (index in start until visited.size) {
             visited[index] = true
             combine(answer, target, visited, index + 1, count - 1)
             visited[index] = false
