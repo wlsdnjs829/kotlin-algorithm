@@ -7,8 +7,6 @@ Msrc/main/kotlin/com/example/kotlinalgorithm/level1/신규_아이디_추천.kt,
 Ssrc/main/kotlin/com/example/kotlinalgorithm/level1/크레인_인형뽑기_게임.kt,7\3\734d28a86954038e7b4bea27d32a455dd830fd31
 x
 Hsrc/main/kotlin/com/example/kotlinalgorithm/level1/스킬_테스트_1.kt,a\0\a0d3e5709cde1743b01b51d07761ded3883fda5f
-v
-Fsrc/main/kotlin/com/example/kotlinalgorithm/level2/문자열_압축.kt,4\f\4f68e5c95e9e891dec0d1d7b390246ed233e414b
 y
 Isrc/main/kotlin/com/example/kotlinalgorithm/level1/키패드_누르기.kt,0\2\02026932f501dfadb4285c1de1c9c17432444755
 z
