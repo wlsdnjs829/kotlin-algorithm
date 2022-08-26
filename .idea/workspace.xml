@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 카펫">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/피로도.kt" afterDir="false" />
+    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 피로도">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level3/코딩_테스트_공부.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,21 +55,20 @@
       <recent name="C:\Users\ljw\Documents\kotlin-algorithm\src\main\kotlin\com\example\kotlinalgorithm\level1" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.kotlinalgorithm.level3" />
       <recent name="com.example.kotlinalgorithm.level2" />
       <recent name="com.example.kotlinalgorithm.method" />
       <recent name="com.example.kotlinalgorithm.level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.카펫Kt">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.기능개발Kt">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,8 +138,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.카펫Kt" />
-        <item itemvalue="Kotlin.타겟_넘버Kt" />
         <item itemvalue="Kotlin.비트_연산자Kt" />
         <item itemvalue="Kotlin.스킬_테스트_1Kt" />
         <item itemvalue="Kotlin.기능개발Kt" />
@@ -165,6 +163,7 @@
       <workItem from="1660625720819" duration="6972000" />
       <workItem from="1661388534471" duration="129000" />
       <workItem from="1661421849030" duration="5112000" />
+      <workItem from="1661518048105" duration="525000" />
     </task>
     <task id="LOCAL-00001" summary=" - feat : 알고리즘 프로젝트 기본 세팅">
       <created>1659609304845</created>
@@ -299,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661436369151</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary=" - feat : 피로도">
+      <created>1661438632431</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1661438632431</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +343,8 @@
     <MESSAGE value=" - feat : 타겟 넘버" />
     <MESSAGE value=" - feat : 타겟 넘버 다른 사람 소스 추가" />
     <MESSAGE value=" - feat : 카펫" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 카펫" />
+    <MESSAGE value=" - feat : 피로도" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 피로도" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
