@@ -1,9 +1,5 @@
 package com.example.kotlinalgorithm.이분탐색
 
-fun main() {
-    println(입국_심사_L3().solution(6, intArrayOf(7, 10)))
-}
-
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/43238?language=kotlin
  */
