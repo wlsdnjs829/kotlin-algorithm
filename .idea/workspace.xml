@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/level2/위장.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/이분탐색/입국_심사_L3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,24 +55,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ljw\Documents\kotlin-algorithm\src\main\kotlin\com\example\kotlinalgorithm\level1" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.kotlinalgorithm.이분탐색" />
       <recent name="com.example.kotlinalgorithm.level2" />
       <recent name="com.example.kotlinalgorithm.method" />
       <recent name="com.example.kotlinalgorithm.level3" />
       <recent name="com.example.kotlinalgorithm.level1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.기능개발Kt">
+  <component name="RunManager" selected="Kotlin.입국_심사_L3Kt">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -160,6 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="입국_심사_L3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.이분탐색.입국_심사_L3Kt" />
+      <module name="kotlin-algorithm.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KotlinAlgorithmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="kotlin-algorithm.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.kotlinalgorithm.KotlinAlgorithmApplication" />
@@ -169,6 +179,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.입국_심사_L3Kt" />
         <item itemvalue="Kotlin.비트_연산자Kt" />
         <item itemvalue="Kotlin.스킬_테스트_1Kt" />
         <item itemvalue="Kotlin.기능개발Kt" />
@@ -195,6 +206,7 @@
       <workItem from="1661388534471" duration="129000" />
       <workItem from="1661421849030" duration="5112000" />
       <workItem from="1661518048105" duration="8017000" />
+      <workItem from="1663756837183" duration="4969000" />
     </task>
     <task id="LOCAL-00001" summary=" - feat : 알고리즘 프로젝트 기본 세팅">
       <created>1659609304845</created>
