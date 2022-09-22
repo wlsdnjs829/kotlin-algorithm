@@ -116,6 +116,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="오늘의_집Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.test.오늘의_집Kt" />
+      <module name="kotlin-algorithm.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="오늘의_집Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.test.오늘의_집Kt" />
+      <module name="kotlin-algorithm.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="메뉴_리뉴얼Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level2.메뉴_리뉴얼Kt" />
       <module name="kotlin-algorithm.main" />

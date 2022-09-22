@@ -1,21 +1,21 @@
 package com.example.kotlinalgorithm.method
 
-fun main() {
-    val target = listOf(1, 2, 3)
-    println(순열().permutation(target))
-
-    val answer = mutableListOf<List<Int>>()
-    조합().combination(answer, target, Array(target.size) { false }, 0, 2)
-    println(answer)
-
-    val answerToString = mutableListOf<String>()
-    조합().combinationToString(answerToString, listOf("A", "B", "C", "D"), Array(4) { false }, 0, 3)
-    println(answerToString)
-
-    val combineString = mutableListOf<String>()
-    조합().combine(combineString, listOf("ABC", "BDF", "CSA", "ERS"), Array(3) { false }, 0, 3)
-    println(combineString)
-}
+//fun main() {
+//    val target = listOf(1, 2, 3)
+//    println(순열().permutation(target))
+//
+//    val answer = mutableListOf<List<Int>>()
+//    조합().combination(answer, target, Array(target.size) { false }, 0, 2)
+//    println(answer)
+//
+//    val answerToString = mutableListOf<String>()
+//    조합().combinationToString(answerToString, listOf("A", "B", "C", "D"), Array(4) { false }, 0, 3)
+//    println(answerToString)
+//
+//    val combineString = mutableListOf<String>()
+//    조합().combine(combineString, listOf("ABC", "BDF", "CSA", "ERS"), Array(3) { false }, 0, 3)
+//    println(combineString)
+//}
 
 class 조합 {
 
