@@ -6,42 +6,33 @@ package com.example.kotlinalgorithm.그래프
 class 순위_L3 {
 
     fun solution(n: Int, results: Array<IntArray>): Int {
-        val loseCase = results.map { it[1] to it[0] }
-            .groupBy { it.first }
-            .mapValues { pair -> pair.value.map { it.second } }
+        var answer = 0
+        val check = Array(n  + 1) {
+            BooleanArray(n + 1)
+        }
 
-        return results.map { it[0] to it[1] }
-            .groupBy { it.first }
-            .mapValues { pair -> pair.value.map { it.second } }
-            .toMutableMap()
-            .run {
-                (1..n).filter { this[it] == null }
-                    .forEach { this[it] = listOf() }
+        results.forEach { (winner, looser) ->
+            check[winner][looser] = true
+        }
 
-                this.map {
-                    val visited = BooleanArray(n) { false }
-                    visited[it.key - 1] = true
-                    it.value.forEach { value -> visited[value - 1] = true }
-
-                    val connect = loseCase.dfs(it.key, visited)
-
-                    it.value.forEach { value -> this.dfs(value, visited) }
-
-                    if (visited.count { boolean -> boolean } == n) 1 else 0
-                }.sum()
-            }
-    }
-
-    private fun Map<Int, List<Int>>.dfs(value: Int, visited: BooleanArray) {
-        return if (this[value]?.isNotEmpty() != true || this[value]?.all { visited[it - 1] } == true) {
-            return
-        } else {
-            val nodes = this[value]!!
-            nodes.filter { !visited[it - 1] }.forEach {
-                visited[it - 1] = true
-                dfs(it, visited)
+        for (mid in 1..n) {
+            for (start in 1..n) {
+                for (end in 1..n) {
+                    if (check[start][mid] && check[mid][end])
+                        check[start][end] = true
+                }
             }
         }
+
+        for (from in 1..n) {
+            var cnt = 0
+            for (to in 1..n) {
+                if (check[from][to] || check[to][from]) cnt++
+            }
+            if (cnt == n - 1) answer++
+        }
+
+        return answer
     }
 
 }
