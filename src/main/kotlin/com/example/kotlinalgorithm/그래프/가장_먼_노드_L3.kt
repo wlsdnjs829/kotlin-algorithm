@@ -1,9 +1,5 @@
 package com.example.kotlinalgorithm.그래프
 
-fun main() {
-    println(가장_먼_노드_L3().solution(6, arrayOf(intArrayOf(3,6), intArrayOf(3, 2), intArrayOf(1, 3), intArrayOf(1, 2), intArrayOf(5, 2), intArrayOf(6, 4))))
-}
-
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/49189?language=kotlin
  */

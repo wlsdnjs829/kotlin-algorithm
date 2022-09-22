@@ -1,16 +1,5 @@
 package com.example.kotlinalgorithm.그래프
 
-fun main() {
-    println(
-        순위_L3().solution(
-            5, arrayOf(
-                intArrayOf(3, 5), intArrayOf(4, 2), intArrayOf(4, 5), intArrayOf(5, 1),
-                intArrayOf(5, 2)
-            )
-        )
-    )
-}
-
 /**
  * https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=kotlin
  */
