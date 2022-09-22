@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 네트워크">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/깊이_너비_우선_탐색/단어변환_L3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 단어변환">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/깊이_너비_우선_탐색/여행경로_L3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/깊이_너비_우선_탐색/단어변환_L3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/깊이_너비_우선_탐색/단어변환_L3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/bc58085192d5abb48080e3670915133715a33ce0/kotlin-stdlib-1.6.21-sources.jar!/kotlin/Array.kt" root0="SKIP_INSPECTION" />
@@ -68,7 +76,7 @@
       <recent name="com.example.kotlinalgorithm.level3" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.단어변환_L3Kt">
+  <component name="RunManager" selected="Kotlin.여행경로_L3Kt">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -171,8 +179,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="스킬_테스트_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.level2.스킬_테스트_1Kt" />
+    <configuration name="여행경로_L3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.kotlinalgorithm.깊이_너비_우선_탐색.여행경로_L3Kt" />
       <module name="kotlin-algorithm.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -194,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.여행경로_L3Kt" />
         <item itemvalue="Kotlin.단어변환_L3Kt" />
         <item itemvalue="Kotlin.순위_L3Kt" />
         <item itemvalue="Kotlin.입국_심사_L3Kt" />
         <item itemvalue="Kotlin.비트_연산자Kt" />
-        <item itemvalue="Kotlin.스킬_테스트_1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663852100690</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary=" - feat : 단어변환">
+      <created>1663853907739</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1663853907739</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +463,8 @@
     <MESSAGE value=" - feat : 메뉴 리뉴얼" />
     <MESSAGE value=" - feat : 조합 순열 main 주석 처리" />
     <MESSAGE value=" - feat : 네트워크" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 네트워크" />
+    <MESSAGE value=" - feat : 단어변환" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 단어변환" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -466,6 +482,11 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/깊이_너비_우선_탐색/여행경로_L3.kt</url>
+          <line>32</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

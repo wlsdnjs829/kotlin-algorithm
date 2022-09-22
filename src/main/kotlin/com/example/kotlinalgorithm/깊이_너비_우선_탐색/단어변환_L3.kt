@@ -1,9 +1,5 @@
 package com.example.kotlinalgorithm.깊이_너비_우선_탐색
 
-fun main() {
-    println(단어변환_L3().solution("hit", "cog", arrayOf("hot", "dot", "dog", "lot", "log", "cog")))
-}
-
 /** https://school.programmers.co.kr/learn/courses/30/lessons/43163 */
 class 단어변환_L3 {
 
