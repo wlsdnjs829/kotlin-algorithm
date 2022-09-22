@@ -7,9 +7,6 @@ x
 Hsrc/main/kotlin/com/example/kotlinalgorithm/level1/스킬_테스트_1.kt,a\0\a0d3e5709cde1743b01b51d07761ded3883fda5f
 z
 Jsrc/main/kotlin/com/example/kotlinalgorithm/level1/신고_결과_받기.kt,4\4\442a50d11437d64d6a22160b1948f6a93ce26c33
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 v
 Fsrc/main/kotlin/com/example/kotlinalgorithm/level2/문자열_압축.kt,4\f\4f68e5c95e9e891dec0d1d7b390246ed233e414b
 o

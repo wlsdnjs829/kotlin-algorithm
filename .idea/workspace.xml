@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/그래프/순위_L3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+    <list default="true" id="6072b622-9066-4163-8c1c-327230a5ae6e" name="Changes" comment=" - feat : 조합 순열 main 주석 처리">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/깊이_너비_우선_탐색/네트워크_L3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/이분탐색/입국_심사_L3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/kotlinalgorithm/이분탐색/입국_심사_L3.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +37,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.6.21/7fc897718827243ab327fc5ea4ad18ab415ba162/kotlin-compiler-embeddable-1.6.21-sources.jar!/org/jetbrains/kotlin/ir/serialization/CarrierDeserializer.kt" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/4161056305b7cdaf52a6fd0c051b06ad03f9bd49/kotlin-stdlib-common-1.6.21-sources.jar!/generated/_Collections.kt" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/bc58085192d5abb48080e3670915133715a33ce0/kotlin-stdlib-1.6.21-sources.jar!/kotlin/Array.kt" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/bc58085192d5abb48080e3670915133715a33ce0/kotlin-stdlib-1.6.21-sources.jar!/kotlin/Library.kt" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/bc58085192d5abb48080e3670915133715a33ce0/kotlin-stdlib-1.6.21-sources.jar!/kotlin/collections/CollectionsJVM.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.6.21/7fc897718827243ab327fc5ea4ad18ab415ba162/kotlin-compiler-embeddable-1.6.21-sources.jar!/org/jetbrains/kotlin/ir/serialization/CarrierDeserializer.kt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/4161056305b7cdaf52a6fd0c051b06ad03f9bd49/kotlin-stdlib-common-1.6.21-sources.jar!/generated/_Collections.kt" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/bc58085192d5abb48080e3670915133715a33ce0/kotlin-stdlib-1.6.21-sources.jar!/kotlin/collections/builders/ListBuilder.kt" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -55,25 +54,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "spring.configuration.checksum": "ba1880bc80050f1bfa4e8d89cd592b84"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ljw\Documents\kotlin-algorithm\src\main\kotlin\com\example\kotlinalgorithm\level1" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.example.kotlinalgorithm.깊이_너비_우선_탐색" />
       <recent name="com.example.kotlinalgorithm.이분탐색" />
       <recent name="com.example.kotlinalgorithm.level2" />
       <recent name="com.example.kotlinalgorithm.method" />
       <recent name="com.example.kotlinalgorithm.level3" />
-      <recent name="com.example.kotlinalgorithm.level1" />
     </key>
   </component>
   <component name="RunManager" selected="Kotlin.순위_L3Kt">
@@ -389,11 +382,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661525495562</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary=" - feat : 조합 순열 main 주석 처리">
+      <created>1663850171016</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1663850171016</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -405,6 +415,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" - feat : 알고리즘 프로젝트 기본 세팅" />
@@ -429,7 +440,8 @@
     <MESSAGE value=" - feat : 피로도" />
     <MESSAGE value=" - feat : 코딩 테스트 공부" />
     <MESSAGE value=" - feat : 메뉴 리뉴얼" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 메뉴 리뉴얼" />
+    <MESSAGE value=" - feat : 조합 순열 main 주석 처리" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - feat : 조합 순열 main 주석 처리" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -452,6 +464,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kotlin_algorithm$_Kt.ic" NAME="메뉴_리뉴얼Kt Coverage Results" MODIFIED="1661525249182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/kotlin_algorithm$_Kt.ic" NAME="오늘의_집Kt Coverage Results" MODIFIED="1663494564830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
