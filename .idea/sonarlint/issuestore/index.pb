@@ -23,12 +23,6 @@ v
 Fsrc/main/kotlin/com/example/kotlinalgorithm/level2/메뉴_리뉴얼.kt,7\b\7b4a96db89cfca6c1bd56da3b1935f706a49b581
 y
 Isrc/main/kotlin/com/example/kotlinalgorithm/level2/멀쩡한_사각형.kt,8\0\80ab0636b47c4ee9e1aceea0960435ca7ca71a57
-r
-Bsrc/main/kotlin/com/example/kotlinalgorithm/level2/기능개발.kt,4\9\498b5feb1525a2703854fb5763a9cca3f02248be
-�
-[src/main/kotlin/com/example/kotlinalgorithm/level2/K진수에서_소수_개수_구하기.kt,1\1\11e42b5253054d34a3e0637eceef595a7098dcb4
-�
-Rsrc/main/kotlin/com/example/kotlinalgorithm/level2/두_큐_합_같게_만들기.kt,f\a\fa5ad2fa408d365be203d801baa60c46dfac26bc
 �
 Psrc/main/kotlin/com/example/kotlinalgorithm/method/최대_공약수_구하기.kt,0\0\00ac346c2c01fe6c2639e1a58704b3d4129af3c4
 v
